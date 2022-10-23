@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lobster', cursive;
+    font-size:larger;
+    background-color: #A3FCFF;
+ /** #A0E8D7 **/
+}
+
+header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #AFD4FF;
+    background-image: url("imagens/africa-7415730_1920.png");
+    background-size: contain;
+}
+
+h1 {
+    padding-bottom: 70px;
+    color: #000;
+    text-align: center;
+}
+
+div {
+    margin: 15px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    background-color: #f0ffff;
+}
+
+h2 {
+    padding-top: 5px;
+    font-weight: 500;
+    font-size: large;
+}
+
+textarea {
+    margin-bottom: 10px;
+}
+
+main {
+    max-width: 100%;
+    background-color:#AFD4FF ;
+    background-image: url("imagens/lion-163542_1280.jpg");
+    background-size: contain;
+}
